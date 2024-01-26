@@ -7,3 +7,4 @@ print(d)
 print("besmellah")
 print("mohammad")
 print("ali & fatemah")
+p=a+b-c+d
