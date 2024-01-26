@@ -4,3 +4,4 @@ b=5
 c=a+2*b
 d= a**2+5**2
 print(d)
+p=a+b-c+d
